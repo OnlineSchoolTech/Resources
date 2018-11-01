@@ -1,3 +1,6 @@
 # Resources
 
-##[Hardware](https://github.com/njolstech/Resources/wiki/Hardware)
+## [Hardware](https://github.com/njolstech/Resources/wiki/Hardware)
+#### [Headsets](https://github.com/njolstech/Resources/wiki/Hardware#headsets)
+#### [Webcams](https://github.com/njolstech/Resources/wiki/Hardware#webcams)
+___
